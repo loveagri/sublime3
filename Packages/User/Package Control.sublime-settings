@@ -2,6 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"smart less build",
+		"SublimeLinter-contrib-lessc",
+		"TortoiseSVN",
+		"YUI Compressor",
+		"Zip Browser"
 	],
 	"installed_packages":
 	[
@@ -41,10 +46,6 @@
 		"JsFormat",
 		"Laravel 5 Artisan",
 		"LastModifiedIndicator",
-		"LESS",
-		"Less2Css",
-		"lessc",
-		"LiveReload",
 		"LiveStyle",
 		"My Snippets",
 		"Nettuts+ Fetch",
@@ -56,9 +57,6 @@
 		"PHP Companion",
 		"PHP Getters and Setters",
 		"Print to HTML",
-		"Sass",
-		"SASS Build",
-		"SCSS",
 		"SideBarEnhancements",
 		"smart less build",
 		"Sublime JS",
@@ -66,19 +64,11 @@
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-contrib-lessc",
 		"SublimeLinter-jshint",
 		"SublimeTmpl",
-		"SVN",
 		"Terminal",
 		"TortoiseSVN",
 		"TrailingSpaces",
-		"YUI Compressor",
-		"Zip Browser",
 		"Zeal"
-	],
-	"repositories":
-	[
-		"https://github.com/NickWoodhams/LiveReload.Git"
 	]
 }
