@@ -1,13 +1,5 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"smart less build",
-		"SublimeLinter-contrib-lessc",
-		"TortoiseSVN",
-		"YUI Compressor",
-		"Zip Browser"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -27,8 +19,6 @@
 		"CTags",
 		"DeleteBlankLines",
 		"DocBlockr",
-		"Emmet",
-		"Emmet Css Snippets",
 		"FileDiffs",
 		"FileModifyStatus",
 		"FTPSync",
@@ -46,7 +36,6 @@
 		"JsFormat",
 		"Laravel 5 Artisan",
 		"LastModifiedIndicator",
-		"LiveStyle",
 		"My Snippets",
 		"Nettuts+ Fetch",
 		"Nodejs",
@@ -58,16 +47,12 @@
 		"PHP Getters and Setters",
 		"Print to HTML",
 		"SideBarEnhancements",
-		"smart less build",
 		"Sublime JS",
 		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"SublimeLinter",
-		"SublimeLinter-jshint",
 		"SublimeTmpl",
 		"Terminal",
-		"TortoiseSVN",
 		"TrailingSpaces",
 		"Zeal"
 	]
